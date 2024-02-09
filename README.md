@@ -28,7 +28,9 @@ In this pivotal step, we leverage the power of Power BI Desktop to craft compreh
 
 
 Insights
-In this dashboard, we can see company has generated total revenue in 4 years ₹ 984M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
+
+In this dashboard, we can see company has generated total revenue in 4 years ₹ 984M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. 
+
 In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but if you look at the profit margin Delhi NCR is generating only 2.3% profit margin.
 If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit -- Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.
 In 4 years Bengaluru generating the lowest profit margin of -20.8%.if we can check the Profit Contribution % by Market then here also Bengaluru is the Lower with -0.3% of total contribution in total profit.
