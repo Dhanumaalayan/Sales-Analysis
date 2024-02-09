@@ -29,7 +29,7 @@ In this pivotal step, we leverage the power of Power BI Desktop to craft compreh
 
 Insights
 
-In this dashboard, we can see company has generated total revenue in 4 years ₹ 984M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. 
+In this dashboard, we can see company has generated total revenue in 4 years ₹ 984M, total profit margin ₹24.7M, Sales Qty ₹2M. 
 
 In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue 
 
