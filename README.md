@@ -9,11 +9,17 @@ Analysis of different SQL statement on database by executing complex SQL queries
 Data Cleaning and ETL(Extract, Transform, & Load)
 In the realm of data analysis, the process of data cleaning and ETL (Extract, Transform, Load) plays a crucial role in ensuring that the data we work with is accurate, consistent, and ready for analysis. Below are the detailed steps involved in our data cleaning and ETL process:
 
-Step 1: Connect to MySQL Database with PowerBI Desktop- The journey begins by establishing a connection between our MySQL database and PowerBI Desktop. This connection serves as the bridge through which raw data is accessed, setting the stage for comprehensive analysis.
+Step 1: Connect to MySQL Database with PowerBI Desktop-
 
-Step 2: Load Data into Power BI Desktop- During this step, all tables created within the database are loaded into Power BI Desktop. This loading process establishes a seamless connection with the SQL database, pulling in all the records and populating the Power BI environment. The integration of data from the source to Power BI is fundamental for subsequent analysis and visualization.
+The journey begins by establishing a connection between our MySQL database and PowerBI Desktop. This connection serves as the bridge through which raw data is accessed, setting the stage for comprehensive analysis.
 
-Step 3: Transform Data Using Power Query- The heart of the data cleaning and ETL process lies in transforming the raw data into a structured and usable format. Power Query comes to our aid, enabling us to cleanse and reshape the dataset. Through various transformations and manipulations, inconsistencies are resolved, missing values are handled, and the data is refined to align with our analytical objectives. Once the dataset undergoes this meticulous cleaning and transformation, it emerges prepared for the next stage: data modeling. With a clean and structured dataset in hand, we are equipped to delve into advanced analytics, uncover patterns, and extract meaningful insights that drive informed decision-making.
+Step 2: Load Data into Power BI Desktop-
+
+During this step, all tables created within the database are loaded into Power BI Desktop. This loading process establishes a seamless connection with the SQL database, pulling in all the records and populating the Power BI environment. The integration of data from the source to Power BI is fundamental for subsequent analysis and visualization.
+
+Step 3: Transform Data Using Power Query-
+
+The heart of the data cleaning and ETL process lies in transforming the raw data into a structured and usable format. Power Query comes to our aid, enabling us to cleanse and reshape the dataset. Through various transformations and manipulations, inconsistencies are resolved, missing values are handled, and the data is refined to align with our analytical objectives. Once the dataset undergoes this meticulous cleaning and transformation, it emerges prepared for the next stage: data modeling. With a clean and structured dataset in hand, we are equipped to delve into advanced analytics, uncover patterns, and extract meaningful insights that drive informed decision-making.
 
 This process ensures that the data we analyze is not just accurate but also optimized for deriving valuable insights, making it an integral part of our data analysis workflow.
 
