@@ -1,7 +1,7 @@
 Atliq Hardware Sales_Insight Using MySQL and Power BI
 
 Data Analysis using MySQL
-Completed the Data discovery and then used mySQL for data analysis. SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer.
+Completed the Data discovery and then used mySQL for data analysis. 
 
 Importing Data to MySQL workbench.
 Analysis of data by looking into different tables and reflecting garbage values.
