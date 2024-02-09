@@ -1,1 +1,1 @@
-# Sales_Insights Using MySQL and Power-Bi
+Atliq Hardware Sales_Insight Using MySQL and Power BI
