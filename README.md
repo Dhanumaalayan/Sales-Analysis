@@ -33,9 +33,7 @@ In this dashboard, we can see company has generated total revenue in 4 years ₹
 
 In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue 
 
-If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit -- Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.
 In 4 years Bengaluru generating the lowest profit margin of -20.8%.if we can check the Profit Contribution % by Market then here also Bengaluru is the Lower with -0.3% of total contribution in total profit.
+
 In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
-In our top 5 products,the Prod318 is our highest product has generated total ₹ 69M revenue generated in 4 years.
-In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
-Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in April 2020.
+
