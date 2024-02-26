@@ -15,9 +15,8 @@ select * from products;
  Q6 : write a query to fetch the details of  all the customer having total_revenue in the zone "Central"
  Q7 : write a query to retrieve the customer_name who has total_sales more/better than the avg_sales by zone level
  Q8 : write a query to find the customer name who has the highest revenue in each zone 
- Q9 : write a query to fetch the customer name who has done more sales in the month "January" in  all the year
- Q10: write a query to fetch the profit contribution by all the markets
- Q11: write a query to fetch the revenue contribution by all the markets
+ Q9: write a query to fetch the profit contribution by all the markets
+ Q10: write a query to fetch the revenue contribution by all the markets
  */
  
 -- Q1 : write a query to fetch the total_sales_amount
@@ -132,23 +131,7 @@ on t.market_code = m.markets_code
 group by c.customer_name , m.zone)x
 where x.rank_  = 1;
 
--- Q9 :  write a query to fetch the customer name who has done more sales in the month "January" in  all the year
-with cte as 
-		(select d.year , c.customer_name , sum(sales_amount) as total_sales,
-        rank() over (partition by d.year order by sum(t.sales_amount) desc ) as rnk
-		from customers c
-		join transactions t 
-		on c.customer_code = t.customer_code 
-		join date d 
-		on d.date = t.order_date
-        where d.month_name = "January"
-        group by d.year , c.customer_name )
-select  * 
-from cte
-where rnk = 1;
-
-
--- Q10 : write a query to fetch the revenue contribution by all the markets
+-- Q9 : write a query to fetch the revenue contribution by all the markets
 
 select b.markets_name , sum(a.sales_amount) as total_sales 
 from 
@@ -159,7 +142,7 @@ on a.market_code = b.markets_code
 group by b.markets_name
 order by total_sales desc;
 
--- Q11 :  write a query to fetch the profit contribution by all the markets
+-- Q10 :  write a query to fetch the profit contribution by all the markets
 
 select b.markets_name , round(sum(a.profit_margin)) as profit_contribution
 from
