@@ -6,19 +6,7 @@ select * from markets ;
 select * from date;
 select * from products;
 
-/*
- Q1 : write a query to fetch the total_sales_amount
- Q2 : write a query to display all the distinct customer name 
- Q3 : write a query to fetch the total revenue of the market  = "Chennai"
- Q4 : write a query to fetch the total revenue for all year 
- Q5 : write a query to display total reveue by the zone level 
- Q6 : write a query to fetch the details of  all the customer having total_revenue in the zone "Central"
- Q7 : write a query to retrieve the customer_name who has total_sales more/better than the avg_sales by zone level
- Q8 : write a query to find the customer name who has the highest revenue in each zone 
- Q9 : write a query to fetch the customer name who has done more sales in the month "January" in  all the year
- Q10: write a query to fetch the profit contribution by all the markets
- Q11: write a query to fetch the revenue contribution by all the markets
- */
+
  
 -- Q1 : write a query to fetch the total_sales_amount
 
