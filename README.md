@@ -1,4 +1,4 @@
-Atliq Hardware Sales_Insight Using MySQL and Power BI
+### Atliq Hardware Sales_Insight Using MySQL and Power BI
 
 Data Analysis using MySQL
 Completed the Data discovery and then used mySQL for data analysis. 
