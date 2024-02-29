@@ -37,3 +37,8 @@ In 4 years Bengaluru generating the lowest profit margin of -20.8%.if we can che
 
 In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
 
+
+Tools used 
+1 Power BI
+2 MySQL
+
