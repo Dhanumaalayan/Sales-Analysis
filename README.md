@@ -27,7 +27,7 @@ Building Dashboards or Reports
 In this pivotal step, we leverage the power of Power BI Desktop to craft comprehensive dashboards and reports. Utilizing a range of Data Analysis Expressions (DAX) measures, we delve deep into data visualization, transforming raw data into actionable insights. DAX, a powerful formula language, enables us to create calculated columns, tables, and advanced measures, enhancing the granularity of our analysis.
 
 
-Insights
+## Insights
 
 In this dashboard, we can see company has generated total revenue in 4 years ₹ 984M, total profit margin ₹24.7M, Sales Qty ₹2M. 
 
